@@ -2,7 +2,7 @@
 <h2 align="center">A Computer Engineering Student in Istanbul</h2>
 
 - 🔭 I’m currently working on Machine Learning and Image Proccessing
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI and Deep Learning
 
 <p style="display: inline-block;" align="center">
   <kbd>

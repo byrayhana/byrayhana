@@ -39,6 +39,7 @@
     <img width="50px" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     <img width="50px" title="Kaggle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original.svg" />
     <img width="50px" title="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" />
+    <img width="50px" title="Keras" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg](https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg)" />
 
   </kbd>
  

@@ -2,10 +2,10 @@
 <h2 align="center">A Computer Engineering Student in Istanbul</h2>
 
 -------------------------
-- 📝 I have a strong interest in Data Science and Artificial Intelligence.
-- 🔭 Working on Deep Learning , Compter Vision & Machine Learning.
+- 📝 I have a strong interest in Data Science and Machine Learning
+- 🔭 Working on Compter Vision.
 - 🌱 Learning about Computer Vision, Machine Learning and Neural Networks.
-- 🚩 Interested in Full Stack Machine Learning Application development
+- 🚩 Interested in Full Stack Machine Learning.
 
 <p style="display: inline-block;" align="center">
   <kbd>

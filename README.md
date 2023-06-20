@@ -3,8 +3,8 @@
 
 -------------------------
 - 📝 I have a strong interest in Data Science and Machine Learning
-- 🔭 Working on Compter Vision.
-- 🌱 Learning about Computer Vision, Machine Learning and Neural Networks.
+- 🔭 Working on Compter Vision and Deep Learning.
+- 🌱 Learning about Neural Networks.
 - 🚩 Interested in Full Stack Machine Learning.
 
 <p style="display: inline-block;" align="center">

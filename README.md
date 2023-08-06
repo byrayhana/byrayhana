@@ -8,7 +8,7 @@
   <p>🚩 Curious about Diffusion models 🌟</p>
 </div>
 
-<h2 align="center">🛠️ My Arsenal</h2>
+<h2 align="center">🛠️ Expertise</h2>
 
 <div align="center">
   <kbd>
